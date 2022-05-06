@@ -7,3 +7,4 @@ def comp(a,b):
         print(a," is smaller than ",b)      
 
 comp(6,8)
+#Pandey
